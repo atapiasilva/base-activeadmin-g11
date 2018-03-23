@@ -16,3 +16,17 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+
+var saludar = function nombreDeLaFuncion() {
+
+};
+
+console.log('HOLAHOLA!');
+
+var nombre = 'JP';
+
+var numUno = 1;
+var numDos = 2;
+
+console.log(numUno + numDos);
